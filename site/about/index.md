@@ -1,24 +1,25 @@
 ---
 layout: page
 meta_title: About
-meta_description: About Skeleventy
-title: About
-sub_heading: Skeleventy is more opinionated than your typical 'barebones' starter kit. It's minimal design is a good basis to build upon for your blog or portfolio.
+meta_description: About Sebastian Anders
+title: Hi
+sub_heading: My name is Sebastian Anders and I am an interaction designer
+
 eleventyNavigation:
   key: About
-  order: 2
+  order: 3
 ---
 
-It's simple and flexible enough to change if you want to, but takes away the design headache for those who just want to get something up and running.
+Since 10+ years I shape how humans interact with their environment through digital products on desktop and mobile devices. Right now I do that @ [Next Big Thing AG](https://www.nextbigthing.ag/).
 
-## Folder structure
+This website shows some projects I am currently working on and also is platform for some thoughts I have, regarding the role of technology in our all life.
 
-### Eleventy
+### Last positions
 
 - `site/` contains all the global data, templates and content
 - `utilities/` contains Eleventy helper `filters` and `transforms`
 - Each page should have it's own respective folder containing an `index.md` file
-- You can then choose the most appropriate layout for each page (or create more if you need to)
+- You can then choose the layout for each page (or create more if you need to)
 - The navigation is powered by the official [Eleventy navigation plugin](https://www.11ty.dev/docs/plugins/navigation/)
 
 ### Assets

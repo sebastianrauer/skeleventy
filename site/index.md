@@ -1,41 +1,18 @@
 ---
 layout: home
 meta_title: Home
-meta_description: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
-title: An Eleventy starter skeleton
-sub_heading: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
+meta_description: Sebastian Anders is an interaction designer with 10+ years of industry experience
+title: Hi! My name is Sebastian
+sub_heading: Interaction designer, photographer, husband and father
 eleventyNavigation:
   key: Home
   order: 1
 ---
 
-## Features
+I take a product, feature or experience from ideation to production. This includes vision setting, designing solutions, prototyping, bringing along cross-functional teams, overseeing implementation, and collaborating with other designers, researchers, product managers, analysts, and engineers.
 
-- Clean, understated design - a good starting point for a portfolio or blog
-- A minimal build pipeline with [Laravel Mix](https://laravel-mix.com/docs/5.0/basic-example)
-- [Gorko](https://github.com/hankchizljaw/gorko), a smart little Sass-powered utility class generator
-- [Purgecss](https://purgecss.com/) to remove unused CSS
-- HTML minifier
-- Supports ES2017 JavaScript, with Babel compilation
-- SEO friendly page meta, including Open Graph and Twitter
-- Image lazy loading
-- Responsive navigation
-- XML Sitemap
+### About
+Since 10+ years I shape how humans interact with their environment through digital products on desktop and mobile devices. Right now I do that @ [Next Big Thing AG](https://www.nextbigthing.ag/).
 
-## Getting started
-
-### Prerequisites
-Node `v10+`
-
-### Installation
-
-1. Clone the repo `git clone https://github.com/josephdyer/skeleventy.git`
-2. `cd` into the project folder and run `npm install`
-3. Start the local development server by running `npm run dev` **Tip:** _Eleventy has live reload baked in!_
-
-## Ready to deploy?
-
-The ```npm run production``` command will remove any unused CSS with Purgecss and minify the CSS and JS files.
-
-I highly recommend using [Netlify](https://www.netlify.com) to host your site on, so I've included a ```netlify.toml``` configuration file for your convenience.
+This website shows some projects I am currently working on and also is platform for some thoughts I have, regarding the role of technology in our all life.
 

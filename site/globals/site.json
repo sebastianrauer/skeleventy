@@ -1,9 +1,9 @@
 {
-    "name": "Skeleventy",
-    "url": "https://skeleventy.netlify.app",
+    "name": "Sebastian Anders",
+    "url": "https://sebastian-anders.com",
     "author": {
-        "name": "Mill Burray",
-        "handle": "@joe_dyer1"
+        "name": "Sebastian Anders",
+        "handle": "@sebimweb"
     },
     "images": {
         "favicon": "/favicon.png",
@@ -13,7 +13,6 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "github": "https://github.com/josephdyer/skeleventy",
-        "twitter": "https://twitter.com/joe_dyer1"
+        "twitter": "https://twitter.com/sebimweb"
     }
 }

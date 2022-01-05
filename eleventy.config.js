@@ -20,7 +20,7 @@ module.exports = config => {
     // Minify our HTML
     config.addTransform('htmlminify', require('./utilities/transforms/htmlminify'))
 
-    // Collections
+    // Collections Blog
     config.addCollection('blog', collection => {
 
         const blogs = collection.getFilteredByTag('blog')
@@ -38,6 +38,7 @@ module.exports = config => {
         return blogs.reverse()
 
     })
+
 
     // Categories collection
     config.addCollection('categories', collection => {
@@ -57,6 +58,9 @@ module.exports = config => {
         return Array.from(list).sort()
 
     })
+
+       
+    
 
     // Layout aliases
     config.addLayoutAlias('base', 'layouts/base.njk')

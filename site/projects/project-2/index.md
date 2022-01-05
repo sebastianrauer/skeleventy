@@ -1,13 +1,13 @@
 ---
 date: 2018-09-30
-meta_description: A meeting is a gathering of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction.
+meta_description: Project 2 is a gathering of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction.
 title: 7 steps to more productive meetings
-sub_heading: Blogpost 1 A meeting is a gathering of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction.
+sub_heading: A meeting is a gathering of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction.
 post_image: /images/post-1.jpg
 image_alt: Photo by Dylan Gillis on Unsplash
 tags:
-    - blog
     - business
+    - blog
 ---
 
 Such as sharing information or reaching an agreement. Meetings may occur face-to-face or virtually, as mediated by communications technology, such as a telephone conference call, a Skype conference call or a video conference.
